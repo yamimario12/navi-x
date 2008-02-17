@@ -138,3 +138,59 @@ class CFileLoader2:
         else: #assuming relative path
             self.localfile = RootDir + '\\' + URL
             self.state = 0 #success 
+
+class CFileLoader3:
+    ######################################################################
+    # Description: Downloads a file in case of URL and returns absolute
+    #              path to the local file.
+    # Parameters : URL=source
+    #              localfile=destination
+    #              timeout(optional)=Funtion time out time.
+    # Return     : -
+    ######################################################################
+    def load(self, URL, localfile, timout=url_open_timeout, proxy=False):
+        if URL[:4] == 'http':
+            if proxy == True:
+                sum = 0
+                #calculate hash of URL
+                for i in range(len(URL)):
+                    sum = sum + ord(URL[i])
+
+                ext_pos = localfile.rfind('.') #find last '.' in the string
+                if ext_pos != -1:
+                    localfile = localfile[:ext_pos] + str(sum) + localfile[ext_pos:]
+                else:
+                    localfile = localfile + str(sum)
+
+            if (proxy == False) or ((proxy == True) and (os.path.exists(localfile) == False)): 
+                try:
+                    oldtimeout=socket.getdefaulttimeout()
+                    socket.setdefaulttimeout(timout)
+            
+                    f = urllib.urlopen(URL)
+                    #get the size of the file in bytes
+                    #size_string=f.info().getheader("Content-Length")
+
+                    #open the destination file
+                    file = open(localfile, "wb")
+                    #file.write(f.read(int(size_string)))
+                    file.write(f.read())
+                    file.close()          
+                  
+                except IOError:
+                    socket.setdefaulttimeout(oldtimeout)            
+                    self.state = -1 #failed
+                    return
+
+                socket.setdefaulttimeout(oldtimeout)
+                
+            self.localfile = localfile
+            self.state = 0 #success
+            
+        elif URL[1] == ':': #absolute (local) path
+            self.localfile = URL
+            self.state = 0 #success
+        else: #assuming relative (local) path
+            self.localfile = RootDir + '\\' + URL
+            self.state = 0 #success
+          
