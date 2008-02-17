@@ -21,7 +21,11 @@
 # -v1.7.1 (2007/12/15)
 # -v1.7.2 (2007/12/20)
 # -v1.8 (2007/12/31)
-# -v1.9b (2008/02/02)
+# -v1.9 (2008/02/10)
+# -v1.9.1 (2008/02/11)
+#
+# Changelog (v1.9.1)
+#   - Stage6 HTML parser fix.
 #
 # Changelog (v1.9)
 #   - QuickSilverScreen support.
@@ -190,7 +194,7 @@ class MainWindow(xbmcgui.Window):
             self.logo_visible = False # true if logo shall be displayed
             self.thumb_visible = False # true if thumb shall be displayed
             
-            self.loader = CFileLoader() #file loader
+            self.loader = CFileLoader3() #file loader
             
             #read the non volatile settings from the settings.dat file
             self.onReadSettings()
@@ -441,7 +445,7 @@ class MainWindow(xbmcgui.Window):
                     self.bg.setImage(imageDir + "background.png")
                 elif m != 'previous': #URL to image located elsewhere
                     ext = getFileExtension(m)
-                    self.loader.load(m, cacheDir + "background." + ext)
+                    self.loader.load(m, cacheDir + "background." + ext, 8, True)
                     if self.loader.state == 0:
                         self.bg.setImage(self.loader.localfile)
                 self.background = m
@@ -453,7 +457,7 @@ class MainWindow(xbmcgui.Window):
                     self.logo_visible = False
                 elif m != 'previous': #URL to image located elsewhere
                     ext = getFileExtension(m)
-                    self.loader.load(m, cacheDir + "logo." + ext, 8)
+                    self.loader.load(m, cacheDir + "logo." + ext, 8, True)
                     if self.loader.state == 0: #success
                         #next line is fix, makes sure logo is update.
                         self.user_logo.setVisible(0)
