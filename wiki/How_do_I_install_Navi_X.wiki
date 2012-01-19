@@ -1,0 +1,22 @@
+#labels Phase-Support
+Issue: How do I install Navi-X?
+
+Explanation: 
+
+On XBMC:
+1. Go to www.navi-x.org and click on "Downloads" then click the button that says "Download Navi-X" and save the file to your computers desktop.
+
+2. Install XBMC on your computer if you have not already. You can get the latest "stable" and "unstable" builds at http://xbmc.org/download/
+
+3. Once XBMC is installed open it and click on "System", then "Setting", then "Addons" and "Install from Zip File". Select the location on your computer where you saved Navi-X and select the zip file. Navi-X should now be available in XBMC under "Programs".
+
+On Boxee:
+1. Install Boxee on your computer or turn on your Boxee Box. You can get the latest updated software at http://boxee.tv/download/
+
+2. At the main screen for Boxee, click on Apps > Repositories and add the following repository address:
+
+http://tinyurl.com/navixforboxee
+OR
+http://navi-x.googlecode.com/svn/trunk/boxee
+
+3. Click on "The Navi-X for Boxee Repository on GoogleCode" then click "Navi-X" to view the app description. Press left or right until "Favorite" is highlighted, then click on it to save the app to your favorites under Apps in Boxee.
