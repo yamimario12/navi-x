@@ -1,0 +1,4 @@
+#labels Phase-Support
+Issue: How do I add something I find in Navi-X to my "favorites"?
+
+Explanation: To add a highlighted item in Navi-X to your favorites, you need to press right on your keyboard or remote once and select "Add To Favorites". THIS ONLY WORKS IN VIEW=LIST MODE WHEN CHOOSING A LAYOUT FOR YOUR PLAYLIST VIEW. IF YOU DO NOT GET THE OPTION, SWITCH YOUR VIEW TO "LIST".
