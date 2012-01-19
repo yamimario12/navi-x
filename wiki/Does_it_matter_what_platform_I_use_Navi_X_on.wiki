@@ -1,0 +1,4 @@
+#labels Phase-Support
+Issue: Does it matter what platform I use Navi-X on?
+
+Explanation: Each platforms has its own advantages and disadvantages in terms of functionality. Read up on what each platform offers in terms of functions available and you will see some differences to consider for yourself. The one major difference is Boxee has a web browser built in to support html types while XBMC does not. XBMC has download capabilities while Navi-X on Boxee does not. Each also display Navi-X a little differently so try both if you want to see the differences.
