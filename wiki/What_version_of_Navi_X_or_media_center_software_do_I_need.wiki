@@ -5,11 +5,14 @@ Explanation: Every time Navi-X or media center software releases a new version, 
 
 
 XBMC Compatibility
+
 Navi-X 3.5 and below = compatible with XBMC 9.11 and earlier versions.
 
 Navi-X 3.6 and up to 3.7.4 = compatible with XBMC 10.1
 
 Navi-X 3.7.4 and above = compatible with XBMC 10.1 and XBMC 11 Eden.
 
+
 Boxee Compatibility
+
 Navi-X 1.4 and up = compatible with Boxee 0.9 and 1.5
