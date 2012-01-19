@@ -1,0 +1,4 @@
+#labels Phase-Support
+Issue: Does Navi-X host the files and content found in Navi-X?
+
+Explanation: No. Navi-X only links to content on the internet, either by publically available channels or user-submitted links to content on the internet. We never host any multimedia content, thus content would not be available if a particular website was down or no longer serving such content from their website.
