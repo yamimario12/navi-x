@@ -5,10 +5,10 @@ Explanation: Please reach out to staff at XBMC or Boxee forums for details. We o
 
 XBMC Support
 
-http://xbmc.org/support/
-http://forum.xbmc.org/
+1. http://xbmc.org/support/
+2. http://forum.xbmc.org/
 
 Boxee Support
 
-http://support.boxee.tv/home
-http://forums.boxee.tv
+1. http://support.boxee.tv/home
+2. http://forums.boxee.tv
