@@ -1,6 +1,6 @@
 #labels Phase-Deploy
 Navi-X FAQ & Technical Documentation Section
-Please visit http://navix.turner3d.net for full Navi-X support!  Team Navi-X1
+Please visit http://navix.turner3d.net for full Navi-X support!  Team Navi-X
 
 ----A---- ABOUT NAVI-X
 
