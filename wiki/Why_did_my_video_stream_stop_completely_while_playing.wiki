@@ -1,0 +1,14 @@
+#labels Phase-Support
+Issue: Why did my video stream stop completely while playing?
+
+Explanation: There are several reasons a video would stop in the middle of playing.
+
+1. The file host you are streaming from is being over used and does not have adequate bandwidth to tranfer the file to you.
+2. You were somehow disconnected from your internet connection, which caused the stream to drop.
+3. The file host is having a network or power outage.
+
+To Fix This Issue: 
+
+1. Try the file host later when they are less busy or try another source.
+2. Make sure you have a solid wireless connection or use a wired connection. If you are using DSL, make sure there is no static on your carpet or particularly the phone line connecting your modem to the internet. You can use Static Guard spray to remove static interference from your lines.
+3. There is nothing you can do about a network or power outage. Come back later and try again.
