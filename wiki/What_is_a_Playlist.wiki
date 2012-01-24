@@ -13,7 +13,7 @@ Here is an example of what a playlist looks like in a text editor:
 
 ------------------------------------------------------------------------
 
-<pre>{{{
+{{{
 
 version=1
 background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
@@ -104,6 +104,6 @@ background=http://img.wallpapermenu.com/only-blue-wallpapers_7167_1280x1024.jpg
 player=default
 rating=-1.00
 }}}
-</pre>
+
 
 ------------------------------------------------------------------------
