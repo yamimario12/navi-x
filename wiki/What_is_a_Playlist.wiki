@@ -12,7 +12,8 @@ Playlists are created manually in a text editor or by using the playlist editor 
 Here is an example of what a playlist looks like in a text editor:
 
 ------------------------------------------------------------------------
-{{{version=1
+{{{
+version=1
 background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
 title=iRoNBiLL's Playlist
 logo=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
@@ -99,7 +100,7 @@ thumb=http://website.navi-x.org/networks/logos/twitter_logo.png
 URL=http://twitter.com/statuses/user_timeline/46805533.rss
 background=http://img.wallpapermenu.com/only-blue-wallpapers_7167_1280x1024.jpg
 player=default
-rating=-1.00}}}
-
+rating=-1.00
+}}}
 
 ------------------------------------------------------------------------
