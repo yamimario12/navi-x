@@ -12,94 +12,94 @@ Playlists are created manually in a text editor or by using the playlist editor 
 Here is an example of what a playlist looks like in a text editor:
 
 ------------------------------------------------------------------------
+'version=1
+background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
+title=iRoNBiLL's Playlist
+logo=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+description=Check out brand new episodes of Aqua Teen Hunger Force season 10 in it's new show titled, Aqua Unit Patrol Squad 1!!! Available in my Adult Swim playlist now!!  - iRoNBiLL/description
 
-#version=1
-#background=http://1.bp.blogspot.com/-#Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-#wallpaper-5.jpg
-#title=iRoNBiLL's Playlist
-#logo=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#description=Check out brand new episodes of Aqua Teen Hunger Force #season 10 in it's new show titled, Aqua Unit Patrol Squad 1!!! #Available in my Adult Swim playlist now!!  - iRoNBiLL/description
+type=video
+name=The Greatest Speech Ever Made by Charlie Chaplin
+thumb=http://img.youtube.com/vi/pK2WJd5bXFg/default.jpg
+URL=http://youtube.com/v/pK2WJd5bXFg.swf
+processor=http://navix.turner3d.net/proc/youtube
+player=default
+rating=-1.00
 
-#type=video
-#name=The Greatest Speech Ever Made by Charlie Chaplin
-#thumb=http://img.youtube.com/vi/pK2WJd5bXFg/default.jpg
-#URL=http://youtube.com/v/pK2WJd5bXFg.swf
-#processor=http://navix.turner3d.net/proc/youtube
-#player=default
-#rating=-1.00
+type=playlist
+name=Latest Favorite Show - Sons of Anarchy
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Soaintertitle#jpg/250px-Soaintertitle.jpg
+URL=http://navix.turner3d.net/playlist/search/sons%20of%20anarchy
+player=default
+rating=-1.00
 
-#type=playlist
-#name=Latest Favorite Show - Sons of Anarchy
-#thumb=http://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Soaintertitle#.jpg/250px-Soaintertitle.jpg
-#URL=http://navix.turner3d.net/playlist/search/sons%20of%20anarchy
-#player=default
-#rating=-1.00
+type=playlist
+name=Adult Swim
+thumb=http://images.sodahead.com/polls/001170413/large_Adult_Swim_Logo_#answer_2_xlarge.jpeg
+URL=http://navix.turner3d.net/playlist/19201/adult_swim.plx
+player=default
+rating=-1.00
+description=A catalogue of Adult Swim shows and episodes. Enjoy! - iRoNBiLL/description
 
-#type=playlist
-#name=Adult Swim
-#thumb=http://images.sodahead.com/polls/001170413/large_Adult_Swim_Logo_#answer_2_xlarge.jpeg
-#URL=http://navix.turner3d.net/playlist/19201/adult_swim.plx
-#player=default
-#rating=-1.00
-#description=A catalogue of Adult Swim shows and episodes. Enjoy! - #iRoNBiLL/description
+type=playlist
+name=Music Videos
+thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+URL=http://navix.turner3d.net/playlist/36339/music_videos.plx
+player=default
+rating=-1.00
 
-#type=playlist
-#name=Music Videos
-#thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#URL=http://navix.turner3d.net/playlist/36339/music_videos.plx
-#player=default
-#rating=-1.00
+type=playlist
+name=Mixtapes
+thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+URL=http://navix.turner3d.net/playlist/36078/mixtapes.plx
+player=default
+rating=-1.00
 
-#type=playlist
-#name=Mixtapes
-#thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#URL=http://navix.turner3d.net/playlist/36078/mixtapes.plx
-#player=default
-#rating=-1.00
+type=playlist
+name=Shoutcast Radio Stations
+thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+URL=http://navix.turner3d.net/playlist/55239/shoutcast_radio_stations.p#x
+player=default
+rating=-1.00
 
-#type=playlist
-#name=Shoutcast Radio Stations
-#thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#URL=http://navix.turner3d.net/playlist/55239/shoutcast_radio_stations.p#lx
-#player=default
-#rating=-1.00
+type=playlist
+name=Websites (Boxee Box Only)
+thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+URL=http://navix.turner3d.net/playlist/49533/websites_#boxee_box_only).plx
+player=default
+rating=-1.00
 
-#type=playlist
-#name=Websites (Boxee Box Only)
-#thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#URL=http://navix.turner3d.net/playlist/49533/websites_#(boxee_box_only).plx
-#player=default
-#rating=-1.00
+type=playlist
+name=Podcasts
+thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+RL=http://navix.turner3d.net/playlist/19196/podcasts.plx
+player=default
+rating=-1.00
+description=Podcasts for those on the go.../description
 
-#type=playlist
-#name=Podcasts
-#thumb=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
-#RL=http://navix.turner3d.net/playlist/19196/podcasts.plx
-#player=default
-#rating=-1.00
-#description=Podcasts for those on the go.../description
+type=audio
+name=Weslochan Global Recordings Show - Show 5 - September 28, 2011
+thumb=http://weslochanrecordings.podbean.com/mf/web/jfuqwg/weslochanminimalsessions5.jpg
+URL=http://weslochanrecordings.podbean.com/mf/web/8wkrqu/episode5.mp3
+player=default
+rating=-1.00
 
-#type=audio
-#name=Weslochan Global Recordings Show - Show 5 - September 28, 2011
-#thumb=http://weslochanrecordings.podbean.com/mf/web/jfuqwg/weslochanmin#imalsessions5.jpg
-#URL=http://weslochanrecordings.podbean.com/mf/web/8wkrqu/episode5.mp3
-#player=default
-#rating=-1.00
+type=video
+name=24 Hours of Neon (Las Vegas, Time-lapse)
+thumb=http://blog.galavantier.com/wp-content/themes/Yen/timthumb.php?src=http://blog.galavantier.com/wp-content/uploads/2011/06/24hoursofneon-1024x664.png&w=580&zc=1
+URL=http://vimeo.com/23413966
+processor=http://navix.turner3d.net/proc/vimeo
+player=default
+rating=-1.00
+description=by Philip Bloom/description
 
-#type=video
-#name=24 Hours of Neon (Las Vegas, Time-lapse)
-#thumb=http://blog.galavantier.com/wp-content/themes/Yen/timthumb.php?#src=http://blog.galavantier.com/wp-#content/uploads/2011/06/24hoursofneon-1024x664.png&w=580&zc=1
-#URL=http://vimeo.com/23413966
-#processor=http://navix.turner3d.net/proc/vimeo
-#player=default
-#rating=-1.00
-#description=by Philip Bloom/description
+type=rss:
+name=Twitter Feed
+thumb=http://website.navi-x.org/networks/logos/twitter_logo.png
+URL=http://twitter.com/statuses/user_timeline/46805533.rss
+background=http://img.wallpapermenu.com/only-blue-wallpapers_7167_1280x1024.jpg
+player=default
+rating=-1.00'
 
-#type=rss:
-#name=Twitter Feed
-#thumb=http://website.navi-x.org/networks/logos/twitter_logo.png
-#URL=http://twitter.com/statuses/user_timeline/46805533.rss
-#background=http://img.wallpapermenu.com/only-blue-#wallpapers_7167_1280x1024.jpg
-#player=default
-#rating=-1.00
 
 ------------------------------------------------------------------------
