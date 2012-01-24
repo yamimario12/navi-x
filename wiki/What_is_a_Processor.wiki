@@ -3,7 +3,7 @@ Issue: What is a Processor?
 
 Explanation: A processor is a web script, hosted on a web server that acts as an intermediary by resolving the final destinations of URLs for multimedia items hosted on a Navi-X playlist.
 
-Here is the explanation from the developer of the Navi-X API (NIPL)himself, Turner3D:
+Here is the explanation from the developer of the Navi-X API (NIPL) himself, Turner3D:
 
 The purpose of the processor is to function as an online plugin for Navi-X which produces media playback parameters for a single item, normally starting with only the URL of the web page which contains the item. In other words, if a web page has a flash player embedded in it, the processor teaches Navi-X how to emulate that site's flash player to get the media in the page to play in XBMC. 
 
