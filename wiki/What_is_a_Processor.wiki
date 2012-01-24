@@ -16,4 +16,6 @@ Please note that this is not meant to serve as a tutorial for any of the above s
 
  A processor is nothing more than a plain text set of instructions in the form of “Navi-X Instructional Processor Language”, also known as “NIPL script” (pronounced “nipple”, of course). This can normally be stored as a plain text file unless there is processing that needs to be done which is beyond the scope of NIPL. 
 
-NIPL came into existence with Navi-X r3.1 and is a major improvement in both speed and flexibility over the previous processing system. While the previous system is still supported and its documentation is still online, authoring new processors in NIPL is highly recommended. 
+NIPL came into existence with Navi-X r3.1 and is a major improvement in both speed and flexibility over the previous processing system. While the previous system is still supported and its documentation is still online, authoring new processors in NIPL is highly recommended.
+
+If you would like NIPL API documentation, you can go here for more details: http://navix.turner3d.net/proc_docs/ 
