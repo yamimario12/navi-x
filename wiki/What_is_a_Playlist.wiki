@@ -12,8 +12,8 @@ Playlists are created manually in a text editor or by using the playlist editor 
 Here is an example of what a playlist looks like in a text editor:
 
 ------------------------------------------------------------------------
-{{{
 <pre>
+{{{
 version=1
 background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
 title=iRoNBiLL's Playlist
