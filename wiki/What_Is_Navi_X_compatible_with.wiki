@@ -1,4 +1,0 @@
-#labels Phase-Support
-Issue: What is Navi-X compatible with?
-
-Explanation: XBMC and Boxee : Windows, Mac, and Linux. XBMC4Xbox : original Xbox (modified). iOS : Apple TV 1 & 2, iPhone 4, and iPad. Android: Phones and Tablets. PS3 (modified): Showtime Media Center.
