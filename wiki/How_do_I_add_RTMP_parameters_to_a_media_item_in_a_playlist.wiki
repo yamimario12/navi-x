@@ -5,7 +5,7 @@ Explanation: Adding RTMP parameters to a live stream URL for playback in Navi-X 
 
 RTMP Media Item Entry Example:
 
-}}}
+{{{
 type=video
 name=BBC News
 URL=http://livestation.com/bbcnews
