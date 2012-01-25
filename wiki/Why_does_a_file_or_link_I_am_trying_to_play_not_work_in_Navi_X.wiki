@@ -9,7 +9,7 @@ Explanation: There are many reasons for a file to not play in Navi-X.
 4. The file being hosted is corrupted or encoded improperly.
 5. The file was added with the wrong "type" to a playlist.
 6. The video host's servers being accessed may have an outage currently.
-7. The "processor" script that plays back the item may be broken.
+7. The "processor" script that resolves the final URL of a media item normally may be broken. Broken processor can be reported here: http://navix.turner3d.net/forums/?action=topic_view&id=270
 
 To Fix This Issue: 
 
