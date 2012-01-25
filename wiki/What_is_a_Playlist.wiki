@@ -107,3 +107,29 @@ rating=-1.00
 
 
 ------------------------------------------------------------------------
+
+Here is the breakdown of our playlists... each playlist has a header to identify key aspects of a playlist, like a predominant logo, background and title for the playlist like the example above.
+
+In this playlist example, the header consists of the following:
+
+{{{
+version=1
+background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
+title=iRoNBiLL's Playlist
+logo=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+description=Check out brand new episodes of Aqua Teen Hunger Force season 10 in it's new show titled, Aqua Unit Patrol Squad 1!!! Available in my Adult Swim playlist now!!  - iRoNBiLL/description
+}}}
+
+"Version" is technically not really used anymore and has been phased out of newer versions of Navi-X. It used to be important during earlier versions for determining playlist revision compatibility.
+
+"Background" references a link to an image file you would like to use for a background for the playlist.
+
+"Title" refers to the title name of a playlist.
+
+"Logo" references a link to an image file you would like to use as a logo for items in the playlist. When you do not assign a thumb to a media item, this image will be placed where the thumb for a media item would appear.
+
+"Description" is for inputting a custom text description and introduction for your playlist. You can access descriptions in playlists for XBMC by pressing right twice on your keyboard or remote.
+
+"View" is a fairly new variable not listed in this header, but can be used to choose a default viewing layout for the playlist. Adding "view=thumbnails" will display your playlist in large icons for selection while"view=default" or "view=list" will display the playlist in a heirarchical layout.
+
+The remainder of the playlist should be pretty self explanatory in terms of what it means. You can almost read the playlist verbatim in english. Each variable in the media items in the playlist is self explanatory, except for rating, which is a variable used in Navi-Xtreme when people rank your playlist, the rating is reflected here.
