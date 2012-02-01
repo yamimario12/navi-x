@@ -14,7 +14,7 @@ swfUrl=http://www.livestation.com/flash/player/5.4/player.swf
 swfVfy=true
 live=true
 }}}
-***Note: This used to be a working example and is no more. This live stream has since stopped working because the user broadcasting this channel is no longer broadcasting it. Don't try plugging it in a playlist as it will not work! 
+***Note: This used to be a working example and is no more. This live stream has since stopped working because the user broadcasting this channel is no longer broadcasting it. Don't try plugging it in a playlist as it will not work! This is strictly for an example of what tags must be included in a working stream.
 
 
 In an RTMP media entry, there are several playback parameters that have to be configured in order to get a live stream via rtmp to playback in Navi-X.
