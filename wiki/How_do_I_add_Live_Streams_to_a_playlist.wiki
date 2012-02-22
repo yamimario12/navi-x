@@ -32,21 +32,21 @@ There are numerous different RTMP variables for video playback. These are normal
 
 Here is an old example of a Navi-X playlist entry for an RTMP live stream:
 
-{{{type=video 
+type=video 
 name=BBC News 
 URL=http://livestation.com/bbcnews 
 playpath=bbcnews_en_high.sdp 
 swfUrl=http://www.livestation.com/flash/player/5.4/player.swf 
 swfVfy=true 
 live=true
-}}}
+
 
 In this case, the RTMP parameters are as follows…
-{{{playpath=bbcnews_en_high.sdp 
+playpath=bbcnews_en_high.sdp 
 swfUrl=http://www.livestation.com/flash/player/5.4/player.swf 
 swfVfy=true 
 live=true
-}}}
+
 
 Here is how I got the RTMP parameters for this live stream…
 1. Open the data sniffing program and hit “Start” to start sniffing my Ethernet ports.
