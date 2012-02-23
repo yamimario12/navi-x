@@ -12,3 +12,5 @@ To Fix This Issue:
 1. Try the file host later when they are less busy or try another source.
 2. Make sure you have a solid wireless connection or use a wired connection. If you are using DSL, make sure there is no static on your carpet or particularly the phone line connecting your modem to the internet. You can use Static Guard spray to remove static interference from your lines.
 3. There is nothing you can do about a network or power outage. Come back later and try again.
+
+You can also try this troubleshooting guide made by iRoNBiLL... http://code.google.com/p/navi-x/wiki/Troubleshooting_Guide_for_Buffering_Issues_in_Navi_X
