@@ -1,6 +1,0 @@
-#labels Phase-Support
-Issue: How do I add something to my favorites list in Navi-X?
-
-Explanation: To add something to your favorites list in Navi-X, you would highlight an item you would like to save in your favorites then press right once on your remote or keyboard and then select "Add to Favorites" to add the item to your favorites.
-
-***For XBMC Eden users: Currently, a change in XBMC code has forcefully removed the favorites options it appears for Mac and AppleTV users. This is currently being investigated and looked into as we did not remove the feature from the app. It appears XBMC is truncating menu's for scripts and plugins for some reason.
