@@ -10,6 +10,8 @@ On XBMC:
 2. Install XBMC on your computer if you have not already. You can get the latest "stable" and "unstable" builds at http://xbmc.org/download/
 
 3. Once XBMC is installed open it and click on "System", then "Addons" and "Install from Zip File". Select the location on your computer where you saved Navi-X and select the zip file. Navi-X should now be available in XBMC under "Programs".
+
+To update Navi-X, simply grab the latest copy on our website for XBMC. 
 {{{
 }}}
 On Boxee:
@@ -24,7 +26,7 @@ http://navi-x.googlecode.com/svn/trunk/boxee
 
 3. Click on "The Navi-X for Boxee Repository on GoogleCode" then click "Navi-X" to view the app description. Press left or right until "Favorite" is highlighted, then click on it to save the app to your favorites under Apps in Boxee.
 
-To update Navi-X, simply grab the latest copy on our website for XBMC. Boxee will always have the latest version available when it is released.
+Boxee will always have the latest version available in the repository.
 {{{
 }}}
 On Apple TV, iPad, iPhone and iOS supported devices :
