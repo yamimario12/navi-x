@@ -37,4 +37,6 @@ On Apple TV, iPad, iPhone and iOS supported devices :
 
 3. Once the Navi-X.zip file is uploaded to your iOS device, open XBMC on your iOS device and go to System > Addons > Install from Zip file. Browse to the location on your device you uploaded the Navi-X.zip file to and select it to install Navi-X.
 
-4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC. 
+4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC.
+
+To update Navi-X, simply grab the latest copy on our website for XBMC. 
