@@ -10,4 +10,4 @@ To Fix This Issue:
 2. Press and hold the power button for more than 5 but less than 8 seconds. 
 3. The Boxee Box will restart with gray screen and take a longer time to load. 
 4. Eventually the green Boxee logo on the box will turn orange/yellow. 
-Then a menu will pop up with options.
+Then a menu will pop up with options. Select "Factory Restore" and confirm to start the process.
