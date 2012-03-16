@@ -25,7 +25,7 @@ To update Navi-X, simply grab the latest copy on our website for XBMC. Boxee wil
 
 *** Apple TV (iOS) Users:
 
-1. Jailbreak your Apple TV and install XBMC. You can get details on how to do this from Google.
+1. Jailbreak your Apple TV (or iOS device) and install XBMC. You can get details on how to do this from Google.
 
 2. Once your Apple TV is jailbroken and has XBMC on it, you need to SSH and upload Navi-X to your iOS device in a folder that can be accessed by XBMC's file explorer. Here is a video detailing how to SSH into your Apple TV (iOS device) and upload files to your device. http://www.youtube.com/watch?v=3x_pyFy1cI0
 
