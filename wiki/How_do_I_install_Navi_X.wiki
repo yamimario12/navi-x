@@ -9,7 +9,7 @@ On XBMC:
 
 2. Install XBMC on your computer if you have not already. You can get the latest "stable" and "unstable" builds at http://xbmc.org/download/
 
-3. Once XBMC is installed open it and click on System > Addons > Install from Zip file. Select the location on your computer where you saved Navi-X and select the zip file. Navi-X should now be available in XBMC under "Programs".
+3. Once XBMC is installed open it and click on System > Addons > Install from Zip file. Select the location on your computer where you saved Navi-X and select the zip file. 
 
 4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC.
 
