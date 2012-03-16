@@ -14,6 +14,15 @@ swfUrl=http://www.livestation.com/flash/player/5.4/player.swf
 swfVfy=true
 live=true
 }}}
+
+You may also use the traditional URL formatting in a single line like this...
+
+{{{
+type=video
+name=BBC News
+URL=http://livestation.com/bbcnews playpath=bbcnews_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true
+}}}
+
 ***Note: This used to be a working example and is no more. This live stream has since stopped working because the user broadcasting this channel is no longer broadcasting it. Don't try plugging it in a playlist as it will not work! This is strictly for an example of what tags must be included in a working stream.
 
 *** Boxee Users: Boxee 1.5.x versions DO NOT SUPPORT LIVE STREAMING via rtmp. When it does, this notice will be removed.
