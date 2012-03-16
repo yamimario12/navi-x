@@ -20,4 +20,4 @@ NIPL came into existence with Navi-X r3.1 and is a major improvement in both spe
 
 If you would like NIPL API documentation, you can go here for more details: http://navix.turner3d.net/proc_docs/ 
 
-***To read the above URL's information, you have to have a free Navi-Xtreme account to post about it in the forum thread link above.
+***To read the above URL's information, you have to have a free Navi-Xtreme account to access the link above.
