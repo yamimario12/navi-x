@@ -22,3 +22,13 @@ http://navi-x.googlecode.com/svn/trunk/boxee
 3. Click on "The Navi-X for Boxee Repository on GoogleCode" then click "Navi-X" to view the app description. Press left or right until "Favorite" is highlighted, then click on it to save the app to your favorites under Apps in Boxee.
 
 To update Navi-X, simply grab the latest copy on our website for XBMC. Boxee will always have the latest version available when it is released.
+
+*** Apple TV (iOS) Users:
+
+1. Jailbreak your Apple TV and install XBMC. You can get details on how to do this from Google.
+
+2. Once your Apple TV is jailbroken and has XBMC on it, you need to SSH and upload Navi-X to your iOS device in a folder that can be accessed by XBMC's file explorer. Here is a video detailing how to SSH into your Apple TV (iOS device) and upload files to your device. http://www.youtube.com/watch?v=3x_pyFy1cI0
+
+3. Once the Navi-X.zip file is uploaded to your iOS device, open XBMC on your iOS device and go to System > Addons > Install from Zip file. Browse to the location on your device you uploaded the Navi-X.zip file to and select it to install Navi-X.
+
+4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC. 
