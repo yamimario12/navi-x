@@ -6,3 +6,5 @@ Explanation: No technical support is being offered for this port of Navi-X any f
 ***Please use the software as is in it's current condition. If something fails to work, Team Navi-X will not resolve issues for the app.
 
 ***If you have a general question about how to use something within the app, iRoNBiLL will still address those questions at http://navix.turner3d.net
+
+***Note: The Navi-Xtreme login in Navi-X Remix is currently broken. Please do not use the function as it will lock up the app continuously. If we find a developer to pickup Navi-X Remix development, we will inform them about this issue then for resolution.
