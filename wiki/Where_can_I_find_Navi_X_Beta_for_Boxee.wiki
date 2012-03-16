@@ -7,8 +7,6 @@ To Fix This Issue: You can add the new Navi-X Remix repository by adding this ad
 
 Navi-X Remix Repository 
 
-http://tinyurl.com/navixremixforboxee 
-
+http://tinyurl.com/navixforboxee
 OR 
-
-http://navi-x-remix.googlecode.com/svn/trunk
+http://navi-x.googlecode.com/svn/trunk/boxee
