@@ -1,4 +1,0 @@
-#labels Phase-Support
-Issue: What is a playlist?
-
-Explanation: A playlist is a list in Navi-X containing links to multimedia content and files found on the internet.
