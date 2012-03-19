@@ -133,3 +133,9 @@ description=Check out brand new episodes of Aqua Teen Hunger Force season 10 in 
 "View" is a fairly new variable not listed in this header, but can be used to choose a default viewing layout for the playlist. Adding "view=thumbnails" will display your playlist in large icons for selection while"view=default" or "view=list" will display the playlist in a heirarchical layout.
 
 The remainder of the playlist should be pretty self explanatory in terms of what it means. You can almost read the playlist verbatim in english. Each variable in the media items in the playlist is self explanatory, except for rating, which is a variable used in Navi-Xtreme when people rank your playlist, the rating is reflected here.
+
+You can also check out our old manual for Navi-X on pages 13 and 14 for more details about how to manually create playlists. 
+
+Old Navi-X Manual
+http://www.box.com/shared/g452jas3ck
+http://www.box.com/shared/g452jas3ck
