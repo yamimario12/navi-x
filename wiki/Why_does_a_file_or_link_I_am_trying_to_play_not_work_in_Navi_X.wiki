@@ -33,4 +33,4 @@ http://en.wikipedia.org/wiki/Boxee#Format_support
 
 6. If the video host's servers being accessed may have an outage, all you can do is wait for the website in question to come back online and try again at that time.
 
-7. If the "processor" script that plays back the item may be broken, this will typically be indicated by view-ability of items in a playlist, but nothing in the playlist actually plays. You can report broken "scrapers" or "processors" here:  http://navix.turner3d.net/forums/?action=topic_view&id=270 
+7. If the "processor" script that plays back the item may be broken, this will typically be indicated by view-ability of items in a playlist, but nothing in the playlist actually plays. You can report broken "scrapers" or "processors" here:  http://www.navixtreme.com/forums/?action=topic_view&id=270 
