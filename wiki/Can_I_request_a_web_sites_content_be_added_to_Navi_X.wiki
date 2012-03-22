@@ -2,7 +2,7 @@
 Issue: Can I request a web sites content be added to Navi-X?
 
 Explanation: Yes. You may request that a web sites content be added to Navi-X here:
-http://navix.turner3d.net/forums/?action=topic_view&id=76
+http://www.navixtreme.com/forums/?action=topic_view&id=76
 
 ***Note: Requests and creation of new scrapers and processors for a website are done so on an entirely voluntary basis by Navi-X developers. No one is technically assigned to the task of bringing in new content and even then, sometimes it is not possible due to technical complications imposed by the site or media center in question.
 
