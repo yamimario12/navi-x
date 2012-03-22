@@ -5,4 +5,4 @@ Explanation: No technical support is being offered for this port of Navi-X any f
 
 ***Please use the software as is in it's current condition. If something fails to work, Team Navi-X will not resolve issues for the app.
 
-***If you have a general question about how to use something within the app, iRoNBiLL will still address those questions at http://www.navixtreme.com
+***If you have a general question about how to use something within the app, iRoNBiLL will still address those questions at http://www.navixtreme.com/forums
