@@ -1,7 +1,7 @@
 #labels Phase-Support
 Issue: Does Navi-X have a Terms of Service agreement?
 
-Explanation: Yes. The terms of service for Navi-X can be found here: http://navix.turner3d.net/terms/
+Explanation: Yes. The terms of service for Navi-X can be found here: http://www.navixtreme.com/terms/
 
 ***If at anytime, you do not agree with the terms of service for Navi-X, please discontinue usage of Navi-X immediately.
 
