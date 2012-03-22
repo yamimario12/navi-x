@@ -5,7 +5,7 @@ Explanation: When we refer to a playlist in Navi-X, we are discussing a list of 
 
 A playlist is a catalogued list of multimedia items in a single list for browsing and playback of multimedia content. It is similar to a music playlist, in which you can arrange items in a list and play them back sequentially. The idea of a playlist is to create a sorted or unsorted arrangement of multimedia links so that others may share their findings on the internet with others or catalogue their findings for personal use.
 
-Playlists are typically created and maintained at http://navix.turner3d.net when you create a free account for hosting your playlists. You can then use the playlist editor and begin creating, arranging or importing playlists into your very own playlist arrangement for sharing or personal viewing. More details on how to use the playlist editor on Navi-Xtreme will be covered in a later article.
+Playlists are typically created and maintained at http://www.navixtreme.com when you create a free account for hosting your playlists. You can then use the playlist editor and begin creating, arranging or importing playlists into your very own playlist arrangement for sharing or personal viewing. More details on how to use the playlist editor on Navi-Xtreme will be covered in a later article.
 
 Playlists are created manually in a text editor or by using the playlist editor hosted on Navi-Xtreme. You can save the playlists as a .txt or .plx (basically Navi-X playlist just saved in a text as .plx)
 
