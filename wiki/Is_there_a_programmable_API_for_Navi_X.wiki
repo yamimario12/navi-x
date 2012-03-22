@@ -2,7 +2,7 @@
 Issue: Is there a programmable API for Navi-X?
 
 Explanation: Yes there is. Details about the Navi-X API dubbed Navi-X Instructional Processor Language or NIPL for short can be found here: 
-http://navix.turner3d.net/proc_docs/
+http://www.navixtreme.com/proc_docs/
 
 Turner3D can provide guidance on http://www.navixtreme.com for advanced users.
 
