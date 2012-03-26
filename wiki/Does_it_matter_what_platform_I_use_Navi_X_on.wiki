@@ -1,13 +1,7 @@
 #labels Phase-Support
 Issue: Does it matter what platform I use Navi-X on?
 
-Explanation: Each platforms has its own advantages and disadvantages in terms of functionality. Read up on what each platform offers in terms of functions available and you will see some differences to consider for yourself. The one major difference is Boxee has a web browser built in to support html types while XBMC does not. XBMC has download capabilities while Navi-X on Boxee does not. Each also display Navi-X a little differently so try both if you want to see the differences.
+Explanation: Each platforms has its own advantages and disadvantages in terms of functionality. Read up on what each platform offers in terms of functions available and you will see some differences to consider for yourself. 
 
-Navi-X on WiiMC DOES NOT support processors at this time. This means any links that are not directly linking to a file on the internet (example: http://www.whateversite.com/vids/blahblah/nameofthemovie.mkv... or .avi, .mp4... if you do not see a file extension on the link, it will not work in WiiMC.
-
-This is due to the lack of a python interpreter in WiiMC. Porting the processors to C+ would make them work, but no programmer has stepped up to take on the task in 2 years of searching.
-
-Playstation support via Channel Plugin for Playstation Media Server and Showtime also have similar limitations and are not as aggresively developed as XBMC and Boxee ports. 
-
-Also refer to this wiki article for more information:
+Refer to this wiki article for more information:
 http://code.google.com/p/navi-x/wiki/Why_is_a_feature_or_function_for_Navi_X_on_one_platform_not_on_another_platform
