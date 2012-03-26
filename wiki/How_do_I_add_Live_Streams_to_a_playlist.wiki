@@ -58,9 +58,9 @@ Here is how I got the RTMP parameters for this live stream…
 7. I added the parameters to each new line in the playlist entry and manually uploaded my playlist on a file server.
 8. I browse to my playlist and hit the link and the live  stream played.
 
-End.
+----
 
-How to get links for MMS streams
+*How to get links for MMS streams*
 For those who don’t know, Microsoft Media Server (MMS) is the name of Microsoft's proprietary network streaming protocol used to transfer unicast data in Windows Media Services (previously called NetShow Services). MMS can be transported via UDP or TCP/IP. The MMS default port is UDP/TCP 1755.
 
 MMS streams are a toss up… sometimes they require authentication tokens for content delivery, sometimes just adding the link directly to the MMS link is enough to get the stream to work… you typically won’t know until you sniff for the link to find out what type of output your website being sniffed is producing.
