@@ -10,3 +10,6 @@ Navi-X on Boxee does not.
 
 Navi-X on XBMC supports RTMP and MMS Live Streams...
 Navi-X on Boxee does not.
+
+Navi-X on XBMC or Boxee supports Navi-X "processors"...
+Navi-X on WiiMC does not.
