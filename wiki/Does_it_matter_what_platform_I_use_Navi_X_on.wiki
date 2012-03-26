@@ -8,3 +8,6 @@ Navi-X on WiiMC DOES NOT support processors at this time. This means any links t
 This is due to the lack of a python interpreter in WiiMC. Porting the processors to C+ would make them work, but no programmer has stepped up to take on the task in 2 years of searching.
 
 Playstation support via Channel Plugin for Playstation Media Server and Showtime also have similar limitations and are not as aggresively developed as XBMC and Boxee ports. 
+
+Also refer to this wiki article for more information:
+http://code.google.com/p/navi-x/wiki/Why_is_a_feature_or_function_for_Navi_X_on_one_platform_not_on_another_platform
