@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: What is a Processor?
+*Issue:* What is a Processor?
 
-Explanation: A processor is a web script, hosted on a web server that acts as an intermediary by resolving the final destinations of URLs for multimedia items hosted on a Navi-X playlist.
+*Explanation:* A processor is a web script, hosted on a web server that acts as an intermediary by resolving the final destinations of URLs for multimedia items hosted on a Navi-X playlist.
 
 Here is the explanation from the developer of the Navi-X API (NIPL) himself, Turner3D:
 
