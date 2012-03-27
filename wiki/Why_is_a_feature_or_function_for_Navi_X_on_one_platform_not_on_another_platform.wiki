@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: Why is a feature or function for Navi-X on one platform not on another platform?
+*Issue:* Why is a feature or function for Navi-X on one platform not on another platform?
 
-Explanation: Not all platforms are created the same. Even slight differences can throw off functionality completely between one media center app and another. At this time we are currently working on implementing all functions from XBMCs version of Navi-X to Boxee's version and others, but this will take some time. Remember, Navi-X was originally an XBMC exclusive app only, now it is a multi-platform app and we are working to extend all functions to all platforms in time.
+*Explanation:* Not all platforms are created the same. Even slight differences can throw off functionality completely between one media center app and another. At this time we are currently working on implementing all functions from XBMCs version of Navi-X to Boxee's version and others, but this will take some time. Remember, Navi-X was originally an XBMC exclusive app only, now it is a multi-platform app and we are working to extend all functions to all platforms in time.
 
 ***Notes:
 
