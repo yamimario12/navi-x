@@ -49,7 +49,7 @@ swfVfy=true
 live=true
 }}}
 
-Here is how I got the RTMP parameters for this live stream…
+*Here is how I got the RTMP parameters for this live stream…*
 1. Open the data sniffing program and hit “Start” to start sniffing my Ethernet ports.
 2. Opened a web browser and went to livestation.com
 3. Browsed to the news section > BBC Live and opened the webpage to begin the live stream.
