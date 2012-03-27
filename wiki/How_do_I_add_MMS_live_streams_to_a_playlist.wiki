@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: How do I add MMS live streams to a playlist?
+*Issue:* How do I add MMS live streams to a playlist?
 
-Explanation: MMS live streams can be added and used in Navi-X from all kinds of sources. Some sources however, add authentication measures to their live streams many times and make it hard to add a live stream to Navi-X, without a web script processor to resolve url's for users.
+*Explanation:* MMS live streams can be added and used in Navi-X from all kinds of sources. Some sources however, add authentication measures to their live streams many times and make it hard to add a live stream to Navi-X, without a web script processor to resolve url's for users.
 
 You should have a thorough understanding of how to use a "port sniffer" or data sniffer to read incoming media url's to your network card. If not, please read up about how to use these on Google search. For the sake of argument, I am going to discuss URL Snooper 2 as my basis for capturing an MMS link.
 
