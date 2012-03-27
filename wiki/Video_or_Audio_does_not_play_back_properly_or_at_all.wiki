@@ -1,8 +1,8 @@
 #labels Phase-Support
-Issue: Video or Audio does not play back properly or at all.
+*Issue:* Video or Audio does not play back properly or at all.
 ________________________________________________________________________
 
-Explanation:
+*Explanation:*
 A video or audio file does not play back properly or at all when attempting to play something in Navi-X.
 
 Navi-X is not a media center or media player, it is an addon for media centers. The media center would either be XBMC or Boxee typically when using Navi-X.
