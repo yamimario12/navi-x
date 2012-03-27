@@ -1,9 +1,9 @@
 #labels Phase-Support
-Issue: How do I install Navi-X?
+*Issue:* How do I install Navi-X?
 
-Explanation: 
+*Explanation:* 
 
-On XBMC:
+*On XBMC:*
 
 1. Go to www.navi-x.org and click on "Downloads" then click the button that says "Download Navi-X" and save the file to your computers desktop.
 
@@ -14,9 +14,8 @@ On XBMC:
 4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC.
 
 To update Navi-X, simply grab the latest copy on our website for XBMC. 
-{{{
-}}}
-On Boxee:
+
+*On Boxee:*
 
 1. Install Boxee on your computer or turn on your Boxee Box. You can get the latest updated software at http://boxee.tv/download/
 
@@ -29,9 +28,8 @@ http://navi-x.googlecode.com/svn/trunk/boxee
 3. Click on "The Navi-X for Boxee Repository on GoogleCode" then click "Navi-X" to view the app description. Press left or right until "Favorite" is highlighted, then click on it to save the app to your favorites under Apps in Boxee.
 
 Boxee will always have the latest version available in the repository.
-{{{
-}}}
-On Apple TV, iPad, iPhone and iOS supported devices :
+
+*On Apple TV, iPad, iPhone and iOS supported devices:*
 
 1. Jailbreak your Apple TV (or iOS device) and install XBMC. You can get details on how to do this from Google.
 
