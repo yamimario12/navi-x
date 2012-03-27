@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: What is a Playlist?
+*Issue:* What is a Playlist?
 
-Explanation: When we refer to a playlist in Navi-X, we are discussing a list of multimedia items and menu selections that appears in Navi-X while browsing the heirarchichal menu structure.
+*Explanation:* When we refer to a playlist in Navi-X, we are discussing a list of multimedia items and menu selections that appears in Navi-X while browsing the heirarchichal menu structure.
 
 A playlist is a catalogued list of multimedia items in a single list for browsing and playback of multimedia content. It is similar to a music playlist, in which you can arrange items in a list and play them back sequentially. The idea of a playlist is to create a sorted or unsorted arrangement of multimedia links so that others may share their findings on the internet with others or catalogue their findings for personal use.
 
@@ -11,10 +11,7 @@ Playlists are created manually in a text editor or by using the playlist editor 
 
 Here is an example of what a playlist looks like in a text editor:
 
-------------------------------------------------------------------------
-
 {{{
-
 version=1
 background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
 title=iRoNBiLL's Playlist
@@ -105,9 +102,6 @@ player=default
 rating=-1.00
 }}}
 
-
-------------------------------------------------------------------------
-
 Here is the breakdown of our playlists... each playlist has a header to identify key aspects of a playlist, like a predominant logo, background and title for the playlist like the example above.
 
 In this playlist example, the header consists of the following:
@@ -136,5 +130,5 @@ The remainder of the playlist should be pretty self explanatory in terms of what
 
 You can also check out our old manual for Navi-X on pages 13 and 14 for more details about how to manually create playlists. 
 
-Old Navi-X Manual
+*Old Navi-X Manual*
 http://www.box.com/shared/g452jas3ck
