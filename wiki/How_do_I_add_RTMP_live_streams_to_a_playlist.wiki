@@ -1,6 +1,6 @@
-Issue: How do I add RTMP live streams to a playlist?
+*Issue:* How do I add RTMP live streams to a playlist?
 
-Explanation: Adding RTMP parameters to a live stream URL for playback in Navi-X is not an easy task and should only be taken up by those skilled in "port sniffing" and deciphering relevent data from GET/POST results delivered in a data sniffing program like WireShark. NO TUTORIAL WILL BE PROVIDED ON HOW TO USE AND DECIPHER CODE IN THIS PROGRAM. PLEASE GOOGLE SEARCH INFORMATION ON HOW TO DO THIS. ALSO, PLEASE READ THE WIKI ARTICLE HERE ON "WHAT IS A PLAYLIST" IF YOU ARE UNFAMILIAR WITH THE MANUAL EDITTING OF NAVI-X PLAYLISTS AS THIS IS REQUIRED TO CREATE RTMP COMPATIBLE MEDIA ITEMS AND IMPORT THE PLAYLIST TO NAVI-XTREME AFTERWARDS.
+*Explanation:* Adding RTMP parameters to a live stream URL for playback in Navi-X is not an easy task and should only be taken up by those skilled in "port sniffing" and deciphering relevent data from GET/POST results delivered in a data sniffing program like WireShark. NO TUTORIAL WILL BE PROVIDED ON HOW TO USE AND DECIPHER CODE IN THIS PROGRAM. PLEASE GOOGLE SEARCH INFORMATION ON HOW TO DO THIS. ALSO, PLEASE READ THE WIKI ARTICLE HERE ON "WHAT IS A PLAYLIST" IF YOU ARE UNFAMILIAR WITH THE MANUAL EDITTING OF NAVI-X PLAYLISTS AS THIS IS REQUIRED TO CREATE RTMP COMPATIBLE MEDIA ITEMS AND IMPORT THE PLAYLIST TO NAVI-XTREME AFTERWARDS.
 
 RTMP Media Item Entry Example:
 
