@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: Why am I not seeing a link in Navi-X that was there before?
+*Issue:* Why am I not seeing a link in Navi-X that was there before?
 
-Explanation: There are several reasons a link would be in Navi-X and then disappear from a list.
+*Explanation:* There are several reasons a link would be in Navi-X and then disappear from a list.
 
 1. The file is no longer available online because it was taken down for copyright infringement. There is nothing you can do to fix this issue. The content was taken offline for violating copyright law. 
 
