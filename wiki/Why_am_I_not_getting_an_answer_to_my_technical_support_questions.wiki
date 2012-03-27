@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: Why am I not getting an answer to my technical support questions?
+*Issue:* Why am I not getting an answer to my technical support questions?
 
-Explanation: Navi-X is an open-source project entirely reliant on the contributory works of individuals who dedicate their time to making Navi-X better and full of more content.
+*Explanation:* Navi-X is an open-source project entirely reliant on the contributory works of individuals who dedicate their time to making Navi-X better and full of more content.
 
 As such, all individuals are not mandated or obligated to tend to the project whatsoever.
 
