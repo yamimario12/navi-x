@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: What is a "scraper"?
+*Issue:* What is a "scraper"?
 
-Explanation: A scraper is a web hosted script that reaches a website and "scrapes" the relevent multimedia from a web sites pages and builds a playlist with this multimedia for browsing a sites multimedia content.
+*Explanation:* A scraper is a web hosted script that reaches a website and "scrapes" the relevent multimedia from a web sites pages and builds a playlist with this multimedia for browsing a sites multimedia content.
 
 A scraper can be written in many "web language's" such as PHP, Perl and ASP and then the script is hosted on a web server so when it is given a call, it retrieves the current sites multimedia and builds it into a compatible Navi-X playlist.
 
