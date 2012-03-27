@@ -1,9 +1,7 @@
 #labels Phase-Support
-Issue: How do I manually update the boxee software from a flash drive?
-________________________________________________________________________
+*Issue:* How do I manually update the boxee software from a flash drive?
 
-
-Explanation:
+*Explanation:*
 Sometimes, the update for firmware on a Boxee Box does NOT flash your device properly during an update over the internet directly. The symptoms typically include primary features not working in Boxee or Navi-X. If you feel your device should be completing a task that appears to be failing or not working, you should consider factory restoring your boxee box and manually updating your firmware from a flash drive. Instructions to perform a factory reset will be included in a separate article via search.
 
 To Fix This Issue:
