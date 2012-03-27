@@ -1,7 +1,7 @@
 #labels Phase-Support
-Issue: Why does a file or link I am trying to play not work in Navi-X?
+*Issue:* Why does a file or link I am trying to play not work in Navi-X?
 
-Explanation: There are many reasons for a file to not play in Navi-X.
+*Explanation:* There are many reasons for a file to not play in Navi-X.
 
 1. The file type may not be supported by your media center.
 2. The file does not exist on the video host's server anymore.
