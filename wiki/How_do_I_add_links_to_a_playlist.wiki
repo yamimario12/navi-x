@@ -24,7 +24,7 @@ These are how dynamic URL’s work and as such, a “processor” or web script 
 
 If you know how to do some web scripting, write regular expressions and can figure out how to resolve a dynamic URL to make a “processor”, then check out this section to learn how to develop processors for your favorite website: http://www.navixtreme.com/proc_docs/
 
-The reason you need to know the differences between static links and dynamic links is most folks are under the impression that you can just add links you get from wherever and it will simply work… THIS IS NOT CORRECT! Now that you know the difference between the two, you are ready to start finding links to content on the internet!
+The reason you need to know the differences between static links and dynamic links is most folks are under the impression that you can just add links you get from wherever into a Navi-X playlist and it will simply work… THIS IS NOT CORRECT! Now that you know the difference between the two, you are ready to start finding links to content on the internet!
 
 *How Do I Add Links To Navi-X from the Navi-Xtreme Website?*
 To add links to Navi-X from NaviXtreme.com, you need to go to the site and then click on “create an account” before you can start making playlists and adding links to Navi-X.
