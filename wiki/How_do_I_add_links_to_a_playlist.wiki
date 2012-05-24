@@ -36,8 +36,12 @@ Once you have created your free playlist hosting account, click on “My Playlis
 http://i1061.photobucket.com/albums/t461/billdaly111/nx1.jpg
 
 
+
+
 Once you are in this menu, you will want to click on “Create new playlist” to begin creating your first playlist.
 http://i1061.photobucket.com/albums/t461/billdaly111/nx2.jpg
+
+
 
 
 Once you clicked on creating a new playlist, you will be presented with the main playlist editor options. In here, you can begin editing the properties of your playlist, including the name or “Title”, description of the playlist, link to a background image, a logo and custom playlist icon for your playlist. If your playlist contains adult content, please mark it as such. You can then decide if you want the playlist to show up for everyone or just your devices.
@@ -45,13 +49,19 @@ Once you clicked on creating a new playlist, you will be presented with the main
 Once you have edited your playlist properties, you can click on “Create” to start adding links to your playlist. Hit “Add new entry” to begin adding links to content on the internet.
 http://i1061.photobucket.com/albums/t461/billdaly111/nx3.jpg
 
+
+
 When adding an item entry into a playlist, you are given several properties to fill in. The only required properties for a link in Navi-X are “Type”, “Name” and “URL”. “Type” is referring to what kind of media item are you trying to add… a video, audio, rss podcast, a web page or html (boxee only via browser), etc. “Name” is what you would like the link referenced to be called and URL is the static or dynamic link of the media entry. You optionally can add a link to a thumbnail picture that will show next to the item when you highlight it in the list in Navi-X, as well as offer a description of what the item is. In Boxee, you hit right twice to view this when the item is highlighted… you press right only once in XBMC to view this.
 
 “Player” can be used to force either mplayer or dvdplayer in XBMC for those who want the option and “Insert at” is used for placement of the media entry in the playlist… either the very top or very bottom of the playlist. Once you have entered all the data you wish to on a media entry, click on Save to add it to your playlist. The media entry instantly becomes available on your playlist in Navi-X. You will have to refresh the playlist if you are currently in it by backing out of your list and re-entering it again.
 http://i1061.photobucket.com/albums/t461/billdaly111/nx4.jpg
 
+
+
 On the right side of each entry are several other options for playlists or media item entries… Edit, Delete, Recheck and Move. “Edit” allows you to edit the current items properties. “Delete” will remove the media entries off of your current playlist. “Recheck” will check your link to see if it is active and valid. This is one of the great advantages is that Navi-Xtreme checks playlists to see if items are good or not and if it is discovered through playback that the links have stopped working, they are hidden in your playlist so people do not click on them. Results may vary. “Move” allows you to move the position of the media entry in your playlist.
 http://i1061.photobucket.com/albums/t461/billdaly111/nx5.jpg
+
+
 
 Other Notes Regarding Adding Links To A Playlist
 Live streams in particular are a very hard media entry to add if you do not know how to do this thoroughly. Many times, when you try to capture a live stream media entry, the stream itself may not be working, thus the link you are grabbing will not work in Navi-X. RTMP streams require more than 1 parameter in the body of the URL to make work and if you do not know how to do this, you should read up more about rtmp streams before attempting to add them to Navi-X. Most RTMP and MMS streams will currently only work on XBMC. Boxee has broken support for these in their app. MMS streams work fine in Navi-X, however they must use port 80 in order to work.
