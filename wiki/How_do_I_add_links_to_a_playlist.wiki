@@ -1,7 +1,7 @@
 *Issue:* How do I add links to a playlist
 
 *Explanation:* 
-*Static URL’s vs. Dynamic URL’s - Understanding the basics*
+*Static URL’s vs. Dynamic URL’s - Understanding the basics* - 
 Adding links to a playlist in Navi-X is a fairly straightforward process, but keep in mind that technical issues can prevent playback of media content when added to a playlist for many different reasons. If for some reason, your media is not adding or working properly in Navi-X, head over to http://www.navixtreme.com/forums and make a forum post about it, give us the link you are trying to make work in Navi-X and we can provide you with an explanation of what it will take to make the media you want to play, work in your media center from Navi-X. Don’t just give up on making something work off the bat in Navi-X… let us help you figure out why your media player will not play it.
 
 There are typically two kinds of links on the internet… static links and dynamic links. Static links are those that link directly to a file with extension included in the URL itself. Dynamic links are basically links that point to a media item indirectly and typically do not have a file extension in the body of the URL.
