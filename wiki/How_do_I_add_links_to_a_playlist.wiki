@@ -63,7 +63,7 @@ http://i1061.photobucket.com/albums/t461/billdaly111/nx5.jpg
 
 
 
-Other Notes Regarding Adding Links To A Playlist
+*Other Notes Regarding Adding Links To A Playlist*
 Live streams in particular are a very hard media entry to add if you do not know how to do this thoroughly. Many times, when you try to capture a live stream media entry, the stream itself may not be working, thus the link you are grabbing will not work in Navi-X. RTMP streams require more than 1 parameter in the body of the URL to make work and if you do not know how to do this, you should read up more about rtmp streams before attempting to add them to Navi-X. Most RTMP and MMS streams will currently only work on XBMC. Boxee has broken support for these in their app. MMS streams work fine in Navi-X, however they must use port 80 in order to work.
 
 If anyone would like me to expand on certain areas of this tutorial, please let me know at xironbillx@gmail.com at anytime and I will include them in here.
