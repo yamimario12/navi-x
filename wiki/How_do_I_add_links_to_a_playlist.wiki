@@ -11,8 +11,8 @@ http://www.whatever.com/myfavoritemovie.mp4 ...
 Or .avi, .mp3, .ogg… basically a “dot” and three letter extension of the file type at the very end of the URL, indicating the file type, as well as the fact it is a direct static link.
 
 Dynamic links look like ANYTHING OTHER than static links, meaning there is no three letter file extension directly in the body of the URL. Here are a couple of examples I grabbed for “The Lorax” movie…
-http://www.vidxden.com/7wgcxt27o9qe/12907.flv.html
-http://www.novamov.com/video/p78l4b0begulo
+http://www.vidxden.com/7wgczt27o9qe/12907.flv.html
+http://www.novamov.com/video/p78l6b0begulo
 
 In the examples for dynamic links, you can see these URL’s link directly to webpages only and not to the actual URL of the file name that gets played in the media player directly.
 
