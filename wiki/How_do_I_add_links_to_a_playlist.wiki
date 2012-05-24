@@ -1,4 +1,4 @@
-*Issue:* How to add links to a playlist
+*Issue:* How do I add links to a playlist
 
 *Explanation:* 
 *Static URL’s vs. Dynamic URL’s - Understanding the basics*
