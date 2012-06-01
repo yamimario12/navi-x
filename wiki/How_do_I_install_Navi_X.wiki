@@ -39,4 +39,8 @@ Boxee will always have the latest version available in the repository.
 
 4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC.
 
-To update Navi-X, simply grab the latest copy on our website for XBMC. 
+To update Navi-X, simply grab the latest copy on our website for XBMC.
+
+Here is a video on YouTube created by dawild1504 on "How to add Navi-X .Zip to AppleTV-2 (5.1) using CyberDuck on Mac OSX MTLion":
+http://www.youtube.com/watch?v=XOZOgel4A3s
+ 
