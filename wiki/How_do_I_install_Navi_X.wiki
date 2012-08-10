@@ -35,6 +35,7 @@ Boxee will always have the latest version available in the repository.
 
 2. Once your Apple TV is jailbroken and has XBMC on it, you need to SSH and upload Navi-X to your iOS device in a folder that can be accessed by XBMC's file explorer. Here is a video detailing how to SSH into your Apple TV (iOS device) and upload files to your device. http://www.youtube.com/watch?v=3x_pyFy1cI0
 
+Alternatively, you could get an app from Cydia like "iFile" and download the zip directly to your device instead of ssh/ftp'ing. 
 3. Once the Navi-X.zip file is uploaded to your iOS device, open XBMC on your iOS device and go to System > Addons > Install from Zip file. Browse to the location on your device you uploaded the Navi-X.zip file to and select it to install Navi-X.
 
 4. Exit to the main screen of XBMC and check out "Programs"... Navi-X should be installed there. Make sure you always use the latest version of Navi-X and the latest "stable" version of XBMC, located in the primary download page for XBMC.
