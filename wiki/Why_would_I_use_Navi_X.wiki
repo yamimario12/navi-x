@@ -1,6 +1,8 @@
 #labels Phase-Support
 *Issue:* Why would I use Navi-X?
 
-*Explanation:* Navi-X is a public directory of links to the best content on the internet! Don't spend countless hours looking for something when someone else has found it already and shared the link with everyone else! Many people use Navi-X as a replacement for their traditional television programming. Navi-X links to content on the internet and makes it available on demand in a hierarchical layout for quick browsing and searching of your favorite content! There should be centralized locations to find all the great multimedia on the internet and Navi-X serves that purpose!
+*Explanation:* Navi-X is a public directory of links to the best multimedia content on the internet! People have been known to use Navi-X as a replacement for many traditional venues of entertainment, including television services, radio and on-demand, high definition services... all through 1 graphical interface.
 
-Check out www.navi-x.org for a full explanation of what Navi-X is as well as screenshots and a video demo of Navi-X.
+Some users like the internationally accessible content that is shared by other users or use Navi-X as a leisurely app on tv's and mobile devices to browse through a mountain of content to find new and interesting multimedia, contributed by users as well as collected through aggregated sources from different web sites publically available on the internet.
+
+Check out tinyurl.com/navixtweets to see what people are saying about Navi-X right now!
