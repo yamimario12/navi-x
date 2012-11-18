@@ -1,3 +1,0 @@
-*Issue:*  Why is my link playing in another language?
-
-*Explanation*:  Links to multimedia content come from all around the world, as well as their sources. If you find something not playing in your language, try another source for your media and it may play in a language you understand.
