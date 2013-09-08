@@ -5,7 +5,7 @@
 
 *On XBMC:*
 
-1. Go to www.navi-x.org and click on "Downloads" then click the button that says "Download Navi-X" and save the file to your computers desktop.
+1. Go to "http://code.google.com/p/navi-x/downloads/list" and click on the latest version of Navi-X to download the zip file.
 
 2. Install XBMC on your computer or device if you have not already. You can get the latest "stable" and "unstable" builds at http://xbmc.org/download/
 
